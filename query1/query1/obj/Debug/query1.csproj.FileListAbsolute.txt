@@ -1,0 +1,31 @@
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.exe
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.pdb
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\bin\Debug\query1.exe
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\bin\Debug\query1.pdb
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.Form1.resources
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.Properties.Resources.resources
+C:\Documents and Settings\KimCholmin\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.csproj.GenerateResource.Cache
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.exe
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.pdb
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\bin\Debug\query1.exe
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.Form1.resources
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.Properties.Resources.resources
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\obj\Debug\query1.csproj.GenerateResource.Cache
+C:\Documents and Settings\decard96\My Documents\Visual Studio 2008\Projects\query1\query1\bin\Debug\query1.pdb
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.exe
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.pdb
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\bin\Debug\query1.exe
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\bin\Debug\query1.pdb
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.Form1.resources
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.Properties.Resources.resources
+C:\Users\decard98\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.csproj.GenerateResource.Cache
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.exe
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.pdb
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\bin\Debug\query1.exe
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\bin\Debug\query1.pdb
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.csprojResolveAssemblyReference.cache
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.Form1.resources
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.Properties.Resources.resources
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Debug\query1.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\bin\Release\query1.exe
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\bin\Release\query1.pdb
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Release\query1.Form1.resources
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Release\query1.Properties.Resources.resources
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Release\query1.csproj.GenerateResource.Cache
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Release\query1.exe
+C:\Users\aluca_wyyv9ht\Google 드라이브\visual studio proj\query1\query1\obj\Release\query1.pdb

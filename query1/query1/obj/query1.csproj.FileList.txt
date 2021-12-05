@@ -1,0 +1,8 @@
+obj\Debug\query1.exe
+obj\Debug\query1.pdb
+bin\Debug\query1.exe
+bin\Debug\query1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\query1.Form1.resources
+obj\Debug\query1.Properties.Resources.resources
+obj\Debug\query1.csproj.GenerateResource.Cache
